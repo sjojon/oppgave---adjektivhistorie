@@ -50,7 +50,7 @@ function ordSyv(valg) {
 function historie() {
     tekst.innerHTML = `
     Dette er en ${ord1} dag som alle de ${ord2}
-    gjestene har gledet seg til, <br>for i dag skal de gjøre stas på den ${ord3} Marita. <br>
+    gjestene har gledet seg til, <br>for i dag skal de gjøre stas på den ${ord3} Marita. <br><br>
     Mange har gitt Marita ${ord4} gaver, og disse ${ord5} gavene er Marita veldig glad for.
     <br>Hun vil gjerne takke alle ${ord6} gjester for at hun fikk så mye ${ord7}.
     `
