@@ -1,8 +1,3 @@
-// Dette er en ________ dag som alle de ________
-// gjestene har gledet seg til, for i dag skal de gjøre stas på den ________ Marita.
-// Mange har gitt Marita ________ gaver, og disse ________ gavene er Marita veldig glad for.
-// Hun vil gjerne takke alle ________ gjester for at hun fikk så mye ________.
-
 const tekst = document.getElementById('tekst');
 let ord1 = "________";
 let ord2 = "________";
@@ -15,7 +10,7 @@ let ord7 = "________";
 function ordEn(valg) {
     ord1 = valg.innerHTML;
     historie();
-} 
+}
 
 function ordTo(valg) {
     ord2 = valg.innerHTML;
